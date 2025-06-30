@@ -4,10 +4,6 @@
       box-sizing: border-box;
     }
 
-body {
-  overflow: hidden; /* Hide scrollbars */
-}
-
 div {
   display: block;
   height: 100%;
@@ -115,6 +111,7 @@ html, body {
   width: 100%;
   height: 100%;
   text-align: center;
+  overflow: hidden; /* Hide scrollbars */
 }
 
 .button--bubble__container {
