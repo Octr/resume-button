@@ -6,7 +6,7 @@
 
 div {
   display: block;
-  height: 10%;
+  height: 100%;
   -webkit-animation: hue-rotate 10s linear infinite;
           animation: hue-rotate 10s linear infinite;
 }
