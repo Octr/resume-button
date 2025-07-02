@@ -13,7 +13,7 @@ div {
 
 .button {
   -webkit-font-smoothing: antialiased;
-  background-color: #222;
+  background-color: #21b1ff;
   border: none;
   color: #fff;
   display: inline-block;
@@ -68,7 +68,7 @@ div {
   left: 25%;
   z-index: 1;
   transform: translateY(-50%);
-  background: #222;
+  background: #21b1ff;
   transition: background 0.1s ease-out;
 }
 
@@ -88,7 +88,7 @@ div {
   width: 25px;
   height: 25px;
   border-radius: 15px;
-  background: #222;
+  background: #21b1ff;
   transition: background 0.1s ease-out;
 }
 .button--bubble__effect-container .circle.top-left {
